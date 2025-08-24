@@ -4,7 +4,5 @@
   "scripts": {
     "build": "echo 'Build completed'",
     "start": "echo 'Start completed'"
-  },
-  "dependencies": {},
-  "devDependencies": {}
+  }
 }
